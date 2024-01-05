@@ -167,7 +167,7 @@ photoEditorSDK.setOnPhotoEditorSDKListener(new OnPhotoEditorSDKListener() {
 ## Contributing
 
 We welcome contributions from other developers to help us make the SDK even better.
-Before you contribute there are a number of things that you should know please see [CONTRIBUTING.md](https://github.com/eventtus/photo-editor-android/blob/master/CONTRIBUTING.md) for details.
+Before you contribute there are a number of things that you should know please see [CONTRIBUTING.md](https://github.com/BakangMonei/photo-editor-android/blob/MoneiBKG/CONTRIBUTING.md) for details.
 
 ## Credits
 
