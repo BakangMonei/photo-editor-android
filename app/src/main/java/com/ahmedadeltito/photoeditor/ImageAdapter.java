@@ -11,10 +11,6 @@ import android.widget.ImageView;
 
 import java.util.List;
 
-/**
- * Created by Ahmed Adel on 5/4/17.
- */
-
 public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ViewHolder> {
 
     private List<Bitmap> imageBitmaps;
