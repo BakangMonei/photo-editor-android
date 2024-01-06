@@ -1,8 +1,5 @@
 package com.ahmedadeltito.photoeditor.widget;
 
-/**
- * Created by Ahmed Adel on 5/7/17.
- */
 
 import android.app.Activity;
 import android.content.Context;
