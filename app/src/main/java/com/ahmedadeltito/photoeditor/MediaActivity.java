@@ -8,10 +8,6 @@ import android.os.Bundle;
 import android.support.annotation.RequiresApi;
 import android.util.Log;
 
-/**
- * Created by Ahmed Adel on 09/06/2017.
- */
-
 public abstract class MediaActivity extends BaseActivity {
 
     private Uri selectedImageUri;
